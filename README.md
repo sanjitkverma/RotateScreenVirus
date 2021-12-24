@@ -16,6 +16,7 @@ Python and PIP Packages not installed on computer:
 <br />
 <br />
 <br />
+
 ## Virus Tips
 If using EXE file, create new shortcut for RotateVirus.exe and rename and change icon as another application
 
