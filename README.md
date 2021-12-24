@@ -5,17 +5,17 @@ RotateScreen PIP: https://pypi.org/project/rotate-screen/
 <br />
 <br />
 <br />
-##Download Instructions:
-###Python and PIP Packages Installed on computer:
+## Download Instructions:
+### Python and PIP Packages Installed on computer:
 1)Clone project into local 
 2)run main.py
 <br />
-###Python and PIP Packages not installed on computer:
+### Python and PIP Packages not installed on computer:
 1) Download RotateVirus.exe on computer and double click to execute
 <br />
 <br />
 <br />
-##Virus Tips
+## Virus Tips
 If using EXE file, create new shortcut for RotateVirus.exe and rename and change icon as another application
 
 
