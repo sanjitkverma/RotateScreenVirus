@@ -7,6 +7,7 @@ RotateScreen PIP: https://pypi.org/project/rotate-screen/
 <br />
 ## Download Instructions:
 Python and PIP Packages Installed on computer:
+<br />
 1) Clone project into local and run main.py
 <br />
 Python and PIP Packages not installed on computer:
