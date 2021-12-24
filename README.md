@@ -1,4 +1,4 @@
-# ScreenVirus
+# RotateScreenVirus
 This Python program infinitely rotates the user's primary screen 90 degrees ever 0.1 second. Program can be stopped by signing out or restarting PC. 
 <br />
 RotateScreen PIP: https://pypi.org/project/rotate-screen/ 
