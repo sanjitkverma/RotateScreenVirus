@@ -19,6 +19,6 @@ Download RotateVirus.exe on computer and double click to execute
 <br />
 
 ## Virus Tips
-If using EXE file, create new shortcut for RotateVirus.exe and rename and change icon as another application
+If using EXE file, create new shortcut for RotateVirus.exe and rename/change icon as another application to hide virus
 
 
